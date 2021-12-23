@@ -1,1 +1,1 @@
-These notebooks should be able to replicate main figures in Bartusek et al., 2022, if set to a datapath containing the ERA5, CAM5_GOGA, and wave_analysis data.
+These notebooks should be able to replicate main figures in Bartusek et al., 2022, if set to a datapath containing the ERA5 data (available at https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels), CAM5_GOGA data (available at _zenodo link_), and wave .csv (available here).
